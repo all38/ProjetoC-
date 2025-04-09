@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allys\\Downloads\\Pasta de projetos\\Projeto C# curso Udemy\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {}
+    "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allys\\Downloads\\Pasta de projetos\\Projeto C# curso Udemy\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {
+    "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\Projeto C# curso Udemy\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
+        "projectUniqueName": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
         "projectName": "MeuPrograma",
-        "projectPath": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\Projeto C# curso Udemy\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
+        "projectPath": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
         "packagesPath": "C:\\Users\\allys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\Projeto C# curso Udemy\\ProjetoC-\\MeuPrograma\\obj\\",
+        "outputPath": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\allys\\AppData\\Roaming\\NuGet\\NuGet.Config"
