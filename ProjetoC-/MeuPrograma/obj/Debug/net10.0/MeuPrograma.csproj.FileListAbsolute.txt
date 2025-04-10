@@ -1,0 +1,58 @@
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.exe
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.deps.json
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.runtimeconfig.json
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.dll
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.pdb
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.dll
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\refint\MeuPrograma.dll
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.pdb
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\Allyson\Downloads\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\ref\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.exe
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.deps.json
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.runtimeconfig.json
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\bin\Debug\net10.0\MeuPrograma.pdb
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\refint\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.pdb
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\MeuPrograma\obj\Debug\net10.0\ref\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.exe
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.deps.json
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.runtimeconfig.json
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.pdb
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\refint\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.pdb
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\ref\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\Projeto C# curso Udemy\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.sourcelink.json
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.exe
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.deps.json
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.runtimeconfig.json
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\bin\Debug\net10.0\MeuPrograma.pdb
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfoInputs.cache
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.AssemblyInfo.cs
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.csproj.CoreCompileInputs.cache
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.sourcelink.json
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\refint\MeuPrograma.dll
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.pdb
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\MeuPrograma.genruntimeconfig.cache
+C:\Users\allys\Downloads\Pasta de projetos\ProjetoC-\MeuPrograma\obj\Debug\net10.0\ref\MeuPrograma.dll
