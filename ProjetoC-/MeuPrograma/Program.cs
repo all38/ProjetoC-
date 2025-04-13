@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.EstruturasDeControle;
 
 using CursoCSharp.Fundamentos;
@@ -32,6 +33,17 @@ namespace CursoCSharp {
                 {"Estrutura While - Estrutura de controle", EstruturaWhile.Executar },
                 {"Estrutura do While - Estrutura de controle", EstruturaDoWhile.Executar },
                 {"Estrutura For - Estrutura de controle", EstruturaFor.Executar },
+                {"Estrutura For Each - Estrutura de controle", EstruturaForEach.Executar },
+                {"Usando Break - Estrutura de controle", UsandoBreak.Executar },
+                {"Usando Continue - Estrutura de controle", UsandoContinue.Executar },
+                // Classes e métodos
+                {"Membros - Classes e métodos", Membros.Executar },
+                {"Construtor - Classes e métodos", Construtor.Executar },
+                {"Métodos com Retorno - Classes e métodos", MetodoComRetorno.Executar },
+                {"Métodos Estaticos - Classes e métodos", MetodosEstaticos.Executar },
+                {"Atributos estaticos - Classes e métodos", AtributosEstaticos.Executar },
+                {"Desafio Atributo - Classes e métodos", DesafioAtributo.Executar },
+                {"Params - Classes e métodos", Params.Executar },
             });
         central.SelecionarEExecutar();
         }
