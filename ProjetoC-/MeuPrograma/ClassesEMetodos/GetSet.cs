@@ -2,7 +2,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp.Fundamentos {
+namespace CursoCSharp.ClassesEMetodos {
 
     public class Moto{
         private string Marca;
