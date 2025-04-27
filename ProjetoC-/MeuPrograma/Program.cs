@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
+using CursoCSharp.Api;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.EstruturasDeControle;
-
+using CursoCSharp.Exessoes;
 using CursoCSharp.Fundamentos;
+using CursoCSharp.MetodosEFuncoes;
 using MeuPrograma.ClassesEMetodos;
 
 namespace CursoCSharp {
     class Program {
-        static void Main(string[] args) {
-            var central = new CentralDeExercicios(new Dictionary<string, Action>() {
+        static void Main (string [] args) {
+            var central = new CentralDeExercicios (new Dictionary <string, Action> () {
                 // fundamentos
                 {"Primeiro Programa - Fundamentos", PrimeiroPrograma.Executar},
                 {"Comentarios - Fundamentos", Comentarios.Executar},
@@ -65,6 +67,19 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", Igualdade.Executar },
                 {"Execução Stack - Coleções", ExecucaoStack.Executar },
                 {"Execução Dictionary - Coleções", ExecucaoDictionary.Executar },
+                // Métodos E Funções
+                {"Exemplo de Lambda - Métodos E Funções", ExemploLambda.Executar },
+                {"Exemplo de Lambda Delegate - Métodos E Funções", LambdaDelegate.Executar },
+                {"Usando Delegate - Métodos E Funções", UsandoDelegate.Executar },
+                {"Usando Delegate com Função Anonima - Métodos E Funções", DelegateFuncAnonima.Executar },
+                {"Usando Delegates Como Parametro - Métodos E Funções", DelegatesComoParametro.Executar },
+                {"Métodos De Extensao - Métodos E Funções", MetodosDeExtensao.Executar },
+                // Exessões 
+                {"Primeira Exessesão - Exessões", PrimeiraExessesao.Executar },
+                {"Exessesões Personalizadas - Exessões", ExessoesPersonalizadas.Executar },
+                // Api
+                {"Primeiro Arquivo - Exessões", PrimeiroArquivo.Executar },
+                {"Lendo Arquivos - Exessões", LendoArquivos.Executar },
             });
         central.SelecionarEExecutar();
         }
