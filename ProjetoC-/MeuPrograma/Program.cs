@@ -78,8 +78,10 @@ namespace CursoCSharp {
                 {"Primeira Exessesão - Exessões", PrimeiraExessesao.Executar },
                 {"Exessesões Personalizadas - Exessões", ExessoesPersonalizadas.Executar },
                 // Api
-                {"Primeiro Arquivo - Exessões", PrimeiroArquivo.Executar },
-                {"Lendo Arquivos - Exessões", LendoArquivos.Executar },
+                {"Primeiro Arquivo - API", PrimeiroArquivo.Executar },
+                {"Lendo Arquivos - API", LendoArquivos.Executar },
+                {"Exemplo de FileInfo - API", ExemploFileInfo.Executar },
+                {"Usando Diretorios - API", UsandoDiretorios.Executar },
             });
         central.SelecionarEExecutar();
         }
