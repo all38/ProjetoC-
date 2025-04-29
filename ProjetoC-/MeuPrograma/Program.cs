@@ -8,6 +8,7 @@ using CursoCSharp.Exessoes;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.MetodosEFuncoes;
 using MeuPrograma.ClassesEMetodos;
+using CursoCSharp.OO;
 
 namespace CursoCSharp {
     class Program {
@@ -67,6 +68,13 @@ namespace CursoCSharp {
                 {"Igualdade - Coleções", Igualdade.Executar },
                 {"Execução Stack - Coleções", ExecucaoStack.Executar },
                 {"Execução Dictionary - Coleções", ExecucaoDictionary.Executar },
+                // OO
+                { "Herança - OO", Heranca.Executar},
+                { "Construtor This - OO", ConstrutorThis.Executar},
+                { "Polimorfismo - OO", Polimorfismo.Executar},
+                { "Abstract - OO", Abstract.Executar},
+                { "Interface - OO", Interface.Executar},
+                { "Sealed - OO", Sealed.Executar},
                 // Métodos E Funções
                 {"Exemplo de Lambda - Métodos E Funções", ExemploLambda.Executar },
                 {"Exemplo de Lambda Delegate - Métodos E Funções", LambdaDelegate.Executar },

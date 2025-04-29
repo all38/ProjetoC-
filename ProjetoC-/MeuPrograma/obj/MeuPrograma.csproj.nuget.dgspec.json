@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {}
+    "C:\\Users\\Allyson\\Downloads\\Projeto Git C#\\ProjetoC-\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {}
   },
   "projects": {
-    "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {
+    "C:\\Users\\Allyson\\Downloads\\Projeto Git C#\\ProjetoC-\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
+        "projectUniqueName": "C:\\Users\\Allyson\\Downloads\\Projeto Git C#\\ProjetoC-\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
         "projectName": "MeuPrograma",
-        "projectPath": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
-        "packagesPath": "C:\\Users\\allys\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\allys\\Downloads\\Pasta de projetos\\ProjetoC-\\MeuPrograma\\obj\\",
+        "projectPath": "C:\\Users\\Allyson\\Downloads\\Projeto Git C#\\ProjetoC-\\ProjetoC-\\MeuPrograma\\MeuPrograma.csproj",
+        "packagesPath": "C:\\Users\\Allyson\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Allyson\\Downloads\\Projeto Git C#\\ProjetoC-\\ProjetoC-\\MeuPrograma\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\allys\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Allyson\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
