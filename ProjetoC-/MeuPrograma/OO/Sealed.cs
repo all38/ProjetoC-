@@ -2,8 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp.OO
-{
+namespace CursoCSharp.OO {
     sealed class SemFilho {
         public double ValorDaFortuna() {
             return 1_407_033.65;

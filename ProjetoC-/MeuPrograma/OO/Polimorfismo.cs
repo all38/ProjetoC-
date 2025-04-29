@@ -2,16 +2,15 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp.OO
-{
+namespace CursoCSharp.OO {
     public class Comida {
         public double Peso;
 
-        public Comida(double peso) {
+        public Comida (double peso) {
             Peso = peso;
         }
 
-        public Comida() { }
+        public Comida () { }
     }
 
     public class Feijao : Comida {
@@ -41,14 +40,14 @@ namespace CursoCSharp.OO
         //    Peso += carne.Peso;
         //}
 
-        public void Comer(Comida comida) {
+        public void Comer (Comida comida) {
             Peso += comida.Peso;
         }
     }
 
-    class Polimorfismo
-    {
-        public static void Executar() {
+    class Polimorfismo {
+        
+        public static void Executar () {
             Feijao ingrediente1 = new Feijao(0.3);
 
             Arroz ingrediente2 = new Arroz();

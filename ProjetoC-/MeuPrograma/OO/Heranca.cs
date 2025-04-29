@@ -2,16 +2,16 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp.OO{
+namespace CursoCSharp.OO {
     public class Carro {
         protected readonly int VelocidadeMaxima;
         int VelocidadeAtual;
 
-        public Carro(int velocidadeMaxima) {
+        public Carro (int velocidadeMaxima) {
             VelocidadeMaxima = velocidadeMaxima;
         }
 
-        protected int AlterarVelocidade(int delta) {
+        protected int AlterarVelocidade (int delta) {
             int novaVelocidade = VelocidadeAtual + delta;
 
             if (novaVelocidade < 0) {
@@ -25,11 +25,11 @@ namespace CursoCSharp.OO{
             return VelocidadeAtual;
         }
 
-        public virtual int Acelerar() {
+        public virtual int Acelerar () {
             return AlterarVelocidade(5);
         }
 
-        public int Frear() {
+        public int Frear () {
             return AlterarVelocidade(-5);
         }
     }

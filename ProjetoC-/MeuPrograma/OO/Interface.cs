@@ -2,26 +2,26 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace CursoCSharp.OO
-{
+namespace CursoCSharp.OO {
+
     interface OperacaoBinaria {
-        int Operacao(int a, int b);
+        int Operacao (int a, int b);
     }
 
     class Soma : OperacaoBinaria {
-        public int Operacao(int a, int b) {
+        public int Operacao (int a, int b) {
             return a + b;
         }
     }
 
     class Subtracao : OperacaoBinaria {
-        public int Operacao(int a, int b) {
+        public int Operacao (int a, int b) {
             return a - b;
         }
     }
 
     class Multiplicacao : OperacaoBinaria {
-        public int Operacao(int a, int b) {
+        public int Operacao (int a, int b) {
             return a * b;
         }
     }
@@ -33,7 +33,7 @@ namespace CursoCSharp.OO
             new Multiplicacao()
         };
 
-        public string ExecutarOperacoes(int a, int b) {
+        public string ExecutarOperacoes (int a, int b) {
             string resultado = "";
 
             foreach (var op in operacoes) {
@@ -47,7 +47,7 @@ namespace CursoCSharp.OO
 
     class Interface
     {
-        public static void Executar() {
+        public static void Executar () {
             var calc = new Calculadora();
             var resultado = calc.ExecutarOperacoes(20, 5);
             Console.WriteLine(resultado);
